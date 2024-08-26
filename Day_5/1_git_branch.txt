@@ -10,3 +10,7 @@
 4. git checkout -b <branch_name>
     => Creates a new branch and switches to that that branch with the entire codebase
 
+5. git merge <branch_name>
+    => merges the changes from <branch_name> to the current branch
+
+
